@@ -1,5 +1,11 @@
 # astro
 
+## 2.6.4
+
+### Patch Changes
+
+- [#7366](https://github.com/withastro/astro/pull/7366) [`42baf62e7`](https://github.com/withastro/astro/commit/42baf62e7ca0351a2f2c7d06ec58086f90519bb7) Thanks [@aappaapp](https://github.com/aappaapp)! - Fixed `RedirectConfig` type definition
+
 ## 2.6.3
 
 ### Patch Changes
